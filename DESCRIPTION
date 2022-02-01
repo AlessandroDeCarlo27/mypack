@@ -1,0 +1,14 @@
+Package: mypack
+Type: Package
+Title: Sampling from multivariate logN distribution starting from logN parameters
+Version: 0.1.0
+Author: Alessandro De Carlo
+Maintainer: Alessandro De Carlo <alessandro.decarlo01@universitadipavia.it>
+Description: Sampling from multivariate logN distribution starting from logN parameters
+             Estimate indirect correlations given fixed ones in order to perform a more
+             robust simulation
+License: GPL
+Imports: Matrix, utils, stats, qgraph, igraph, pracma
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
