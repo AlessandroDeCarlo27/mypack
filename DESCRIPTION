@@ -8,7 +8,7 @@ Description: Sampling from multivariate logN distribution starting from logN par
              Estimate indirect correlations given fixed ones in order to perform a more
              robust simulation
 License: GPL
-Imports: Matrix, utils, stats, qgraph, igraph, pracma
+Imports: Matrix (>= 1.2.18), utils, stats, qgraph(>= 1.9), igraph (>= 1.2.11), pracma (>= 2.3.6)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.2
